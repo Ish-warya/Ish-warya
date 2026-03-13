@@ -1,11 +1,11 @@
-Hi there 👋 I'm Aish
+# Hi there 👋 I'm Aish
 
-🔐 Security Analyst | Application Security | Cybersecurity Enthusiast
+## 🔐 Security Analyst | Application Security | Cybersecurity Enthusiast
 
 I have around 3 years of experience in cybersecurity, focusing on identifying vulnerabilities in web applications, mobile applications, and APIs.
 I am passionate about understanding how systems work, breaking them from an attacker’s perspective, and improving security through practical testing and research.
 
-👨‍💻 About Me
+### 👨‍💻 About Me
 
 🔎 Security Analyst with experience in Application Security Testing
 🌐 Focused on Web, API, and Mobile Application Security
@@ -14,7 +14,7 @@ I am passionate about understanding how systems work, breaking them from an atta
 📚 Continuously learning new attack techniques and defense strategies
 🛠 Security Skills
 
-Web Application Security
+### Web Application Security
 
 SQL Injection
 Cross-Site Scripting (XSS)
@@ -24,7 +24,7 @@ IDOR
 SSTI
 Authentication & Access Control Testing
 
-Mobile Application Security
+### Mobile Application Security
 
 Android Application Testing
 SSL Pinning Bypass
@@ -36,7 +36,7 @@ Authentication & Authorization Testing
 API Misconfigurations
 Input Validation Issues
 
-Security Tools
+### Security Tools
 
 Burp Suite
 Nmap
