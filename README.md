@@ -24,6 +24,6 @@ Security Analyst with around 3 years of experience in application security testi
 ## 🚀 Why I'm on GitHub
 
 <p align="justify">
-I use GitHub to **share security research, document learning, and build security-related projects**. It also helps me track my progress, collaborate with the security community, and contribute to improving secure development practices.
+I use GitHub to share security research, document learning, and build security-related projects. It also helps me track my progress, collaborate with the security community, and contribute to improving secure development practices.
 </p>
 
