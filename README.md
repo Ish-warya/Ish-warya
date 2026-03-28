@@ -1,49 +1,29 @@
-# Hi there 👋 I'm Aish
+# Aiswarya K S👩‍💻
 
-## 🔐 Security Analyst | Application Security | Cybersecurity Enthusiast
+## Security Analyst | Application Security🔐 | Cybersecurity Enthusiast
 
-I have around 3 years of experience in cybersecurity, focusing on identifying vulnerabilities in web applications, mobile applications, and APIs.
-I am passionate about understanding how systems work, breaking them from an attacker’s perspective, and improving security through practical testing and research.
+## About Me
 
-### 👨‍💻 About Me
+<p align="justify">
+Security Analyst with around 3 years of experience in application security testing, focused on identifying vulnerabilities in web applications, mobile applications, and APIs. I enjoy understanding how systems work internally, analyzing potential attack paths, and improving application security through practical testing and research.
+</p>
 
-🔎 Security Analyst with experience in Application Security Testing
-🌐 Focused on Web, API, and Mobile Application Security
-🧠 Interested in vulnerability research and bug bounty
-🧪 Regularly practicing on security labs and CTF platforms
-📚 Continuously learning new attack techniques and defense strategies
-🛠 Security Skills
+## 🔎 Focus Areas
 
-### Web Application Security
+* Web Application Security Testing
+* API Security Assessment
+* Android Application Security
+* Authentication & Authorization Testing
+* Vulnerability Research and Security Analysis
 
-SQL Injection
-Cross-Site Scripting (XSS)
-CSRF
-SSRF
-IDOR
-SSTI
-Authentication & Access Control Testing
+## 📫 Contact Me
 
-### Mobile Application Security
+* LinkedIn: www.linkedin.com/in/aiswarya-k-s-2a160625a
+* Email: aishwaryaks166@gmail.com
 
-Android Application Testing
-SSL Pinning Bypass
-Root Detection Analysis
-WebView Vulnerabilities
-Secure Storage Analysis
-API Security
-Authentication & Authorization Testing
-API Misconfigurations
-Input Validation Issues
+## 🚀 Why I'm on GitHub
 
-### Security Tools
+<p align="justify">
+I use GitHub to **share security research, document learning, and build security-related projects**. It also helps me track my progress, collaborate with the security community, and contribute to improving secure development practices.
+</p>
 
-Burp Suite
-Nmap
-FFUF
-Dirsearch
-Amass
-Subfinder
-Frida
-MobSF
-Wireshark
